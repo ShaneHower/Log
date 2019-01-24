@@ -3,7 +3,7 @@ class LogWriter
 
         private string path;
 
-        public Program(string path)
+        public LogWriter(string path)
         {
             this.path = path;
         }
